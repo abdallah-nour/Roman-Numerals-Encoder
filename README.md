@@ -1,4 +1,4 @@
-# [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
+# [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-codewars-thwzpm)
 
